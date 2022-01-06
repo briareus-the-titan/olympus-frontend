@@ -4,7 +4,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "esModuleInterop": true,
-    "lib": ["ESNext", "dom"],
+    "lib": ["ESNext", "dom", "DOM.Iterable"],
     "module": "ESNext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
